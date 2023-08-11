@@ -1,2 +1,2 @@
 # RailwayManagementSystem
-Railway Management System
+Implemented a GUI and established the database connectivity for a Railway Management System.
